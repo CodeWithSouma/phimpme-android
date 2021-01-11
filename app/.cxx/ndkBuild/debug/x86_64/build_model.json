@@ -1,0 +1,60 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/home/souma/Desktop/openSource/fossasia/phimpme-android",
+      "sdkFolder": "/home/souma/Android/Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/home/souma/Desktop/openSource/fossasia/phimpme-android/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/home/souma/Desktop/openSource/fossasia/phimpme-android/app",
+      "makeFile": "/home/souma/Desktop/openSource/fossasia/phimpme-android/app/src/main/jni/Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "/home/souma/Desktop/openSource/fossasia/phimpme-android/.cxx",
+      "cxxFolder": "/home/souma/Desktop/openSource/fossasia/phimpme-android/app/.cxx",
+      "ndkFolder": "/home/souma/Android/Sdk/ndk/21.3.6528147",
+      "ndkVersion": "21.3.6528147",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/home/souma/Desktop/openSource/fossasia/phimpme-android/app/build/intermediates/ndkBuild/debug/lib",
+    "objFolder": "/home/souma/Desktop/openSource/fossasia/phimpme-android/app/build/intermediates/ndkBuild/debug/obj/local",
+    "jsonFolder": "/home/souma/Desktop/openSource/fossasia/phimpme-android/app/.cxx/ndkBuild/debug",
+    "gradleBuildOutputFolder": "/home/souma/Desktop/openSource/fossasia/phimpme-android/app/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "/home/souma/Desktop/openSource/fossasia/phimpme-android/app/.cxx/ndkBuild/debug/x86_64",
+  "jsonFile": "/home/souma/Desktop/openSource/fossasia/phimpme-android/app/.cxx/ndkBuild/debug/x86_64/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/home/souma/Desktop/openSource/fossasia/phimpme-android/app/.cxx/cxx/debug/x86_64",
+  "objFolder": "/home/souma/Desktop/openSource/fossasia/phimpme-android/app/build/intermediates/ndkBuild/debug/obj/local/x86_64",
+  "buildCommandFile": "/home/souma/Desktop/openSource/fossasia/phimpme-android/app/.cxx/ndkBuild/debug/x86_64/build_command.txt",
+  "buildOutputFile": "/home/souma/Desktop/openSource/fossasia/phimpme-android/app/.cxx/ndkBuild/debug/x86_64/build_output.txt",
+  "modelOutputFile": "/home/souma/Desktop/openSource/fossasia/phimpme-android/app/.cxx/ndkBuild/debug/x86_64/build_model.json",
+  "jsonGenerationLoggingRecordFile": "/home/souma/Desktop/openSource/fossasia/phimpme-android/app/.cxx/ndkBuild/debug/x86_64/json_generation_record.json",
+  "compileCommandsJsonFile": "/home/souma/Desktop/openSource/fossasia/phimpme-android/app/.cxx/ndkBuild/debug/x86_64/compile_commands.json"
+}
